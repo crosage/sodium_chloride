@@ -1,16 +1,5 @@
-# moniter
+手机本地使用ssh 对远程服务器nvidia-smi获取服务器状态并汇总
 
-A new Flutter project.
+![](D:\npuoj\moniter\mdimg\1.jpg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](D:\npuoj\moniter\mdimg\2.jpg)
